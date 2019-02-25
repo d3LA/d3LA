@@ -4,7 +4,7 @@ html{
 }
 body{
 	font-family:'Poppins', sans-serif;
-	background: url(..images/airbagge.jpg);
+	background: url(airbagge.jpg);
 	background-size: cover;
 	background-position: center;
 	color:white;
