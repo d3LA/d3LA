@@ -4,7 +4,11 @@ html{
 }
 body{
 	font-family:'Poppins', sans-serif;
+<<<<<<< HEAD:Braha.css
 	background: url(airbagge.jpg);
+=======
+	background: url(images/airbagge.jpg);
+>>>>>>> a18551a21e6e4ce9c8f5cc2cd99e9c114a79234b:css/Braha.css
 	background-size: cover;
 	background-position: center;
 	color:white;
